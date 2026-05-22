@@ -1,6 +1,6 @@
 {
-  "updatedAt": "23/05/2026, 05:41:32 KST",
-  "totalEntries": 17,
+  "updatedAt": "23/05/2026, 07:05:05 KST",
+  "totalEntries": 16,
   "totalTop1": 0,
   "singles": [
     {
@@ -94,8 +94,8 @@
     {
       "title": "Be Mine",
       "country": "Saudi Arabia",
-      "rank": 45,
-      "movement": "-2",
+      "rank": 46,
+      "movement": "-3",
       "type": "single",
       "isTop1": false
     },
@@ -126,16 +126,8 @@
     {
       "title": "Be Mine",
       "country": "Thailand",
-      "rank": 106,
-      "movement": "-79",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Be Mine",
-      "country": "Chile",
-      "rank": 192,
-      "movement": "-35",
+      "rank": 122,
+      "movement": "-89",
       "type": "single",
       "isTop1": false
     }
@@ -159,7 +151,7 @@
     {
       "title": "Be Mine",
       "type": "single",
-      "totalEntries": 7,
+      "totalEntries": 6,
       "totalTop1": 0,
       "countriesTop1": []
     }
