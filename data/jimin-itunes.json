@@ -1,6 +1,6 @@
 {
-  "updatedAt": "22/05/2026, 15:03:43 KST",
-  "totalEntries": 20,
+  "updatedAt": "22/05/2026, 19:22:37 KST",
+  "totalEntries": 19,
   "totalTop1": 0,
   "singles": [
     {
@@ -15,23 +15,15 @@
       "title": "Who",
       "country": "Gambia",
       "rank": 51,
-      "movement": "-1",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Ukraine",
-      "rank": 54,
-      "movement": "NE",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Sri Lanka",
-      "rank": 55,
-      "movement": "-12",
+      "rank": 57,
+      "movement": "-14",
       "type": "single",
       "isTop1": false
     },
@@ -39,14 +31,14 @@
       "title": "Who",
       "country": "Kyrgyzstan",
       "rank": 60,
-      "movement": "-21",
+      "movement": "-18",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
-      "country": "Philippines",
-      "rank": 153,
+      "country": "Ukraine",
+      "rank": 60,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -117,25 +109,9 @@
     },
     {
       "title": "Be Mine",
-      "country": "Thailand",
-      "rank": 46,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Be Mine",
       "country": "Micronesia",
       "rank": 47,
       "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Be Mine",
-      "country": "Taiwan",
-      "rank": 49,
-      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -149,6 +125,14 @@
     },
     {
       "title": "Be Mine",
+      "country": "Thailand",
+      "rank": 63,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Be Mine",
       "country": "Laos",
       "rank": 85,
       "movement": "=",
@@ -157,9 +141,17 @@
     },
     {
       "title": "Be Mine",
+      "country": "Taiwan",
+      "rank": 93,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Be Mine",
       "country": "Chile",
-      "rank": 177,
-      "movement": "-43",
+      "rank": 187,
+      "movement": "-41",
       "type": "single",
       "isTop1": false
     }
@@ -169,7 +161,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 6,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     },
