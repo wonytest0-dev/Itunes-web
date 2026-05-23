@@ -1,37 +1,37 @@
 {
-  "updatedAt": "23/05/2026, 09:03:03 KST",
+  "updatedAt": "23/05/2026, 13:36:41 KST",
   "totalEntries": 16,
   "totalTop1": 0,
   "singles": [
     {
       "title": "Who",
       "country": "Guinea-Bissau",
-      "rank": 14,
-      "movement": "=",
+      "rank": 13,
+      "movement": "+1",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Gambia",
-      "rank": 52,
-      "movement": "-1",
+      "rank": 51,
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Sri Lanka",
-      "rank": 58,
-      "movement": "-4",
+      "rank": 59,
+      "movement": "-5",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Kyrgyzstan",
-      "rank": 72,
-      "movement": "-14",
+      "rank": 75,
+      "movement": "-16",
       "type": "single",
       "isTop1": false
     },
@@ -46,8 +46,8 @@
     {
       "title": "Like Crazy",
       "country": "Guinea-Bissau",
-      "rank": 20,
-      "movement": "=",
+      "rank": 19,
+      "movement": "+1",
       "type": "single",
       "isTop1": false
     },
@@ -86,16 +86,8 @@
     {
       "title": "Be Mine",
       "country": "Kyrgyzstan",
-      "rank": 45,
-      "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Be Mine",
-      "country": "Saudi Arabia",
-      "rank": 46,
-      "movement": "-1",
+      "rank": 42,
+      "movement": "+3",
       "type": "single",
       "isTop1": false
     },
@@ -104,6 +96,14 @@
       "country": "Micronesia",
       "rank": 47,
       "movement": "=",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Be Mine",
+      "country": "Saudi Arabia",
+      "rank": 47,
+      "movement": "-2",
       "type": "single",
       "isTop1": false
     },
@@ -126,8 +126,8 @@
     {
       "title": "Be Mine",
       "country": "Thailand",
-      "rank": 125,
-      "movement": "-86",
+      "rank": 128,
+      "movement": "-83",
       "type": "single",
       "isTop1": false
     }
