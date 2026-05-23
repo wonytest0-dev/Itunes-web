@@ -1,6 +1,6 @@
 {
-  "updatedAt": "24/05/2026, 02:58:22 KST",
-  "totalEntries": 17,
+  "updatedAt": "24/05/2026, 04:16:53 KST",
+  "totalEntries": 19,
   "totalTop1": 0,
   "singles": [
     {
@@ -22,8 +22,8 @@
     {
       "title": "Who",
       "country": "Sri Lanka",
-      "rank": 69,
-      "movement": "-12",
+      "rank": 71,
+      "movement": "-14",
       "type": "single",
       "isTop1": false
     },
@@ -84,7 +84,15 @@
       "isTop1": false
     },
     {
-      "title": "Like Crazy",
+      "title": "Be Mine",
+      "country": "Taiwan",
+      "rank": 21,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Be Mine",
       "country": "Hong Kong",
       "rank": 38,
       "movement": "NE",
@@ -92,7 +100,7 @@
       "isTop1": false
     },
     {
-      "title": "Like Crazy",
+      "title": "Be Mine",
       "country": "Kyrgyzstan",
       "rank": 42,
       "movement": "+3",
@@ -100,7 +108,15 @@
       "isTop1": false
     },
     {
-      "title": "Like Crazy",
+      "title": "Be Mine",
+      "country": "Russia",
+      "rank": 42,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Be Mine",
       "country": "Micronesia",
       "rank": 47,
       "movement": "=",
@@ -108,7 +124,7 @@
       "isTop1": false
     },
     {
-      "title": "Like Crazy",
+      "title": "Be Mine",
       "country": "Saudi Arabia",
       "rank": 49,
       "movement": "-4",
@@ -116,7 +132,7 @@
       "isTop1": false
     },
     {
-      "title": "Like Crazy",
+      "title": "Be Mine",
       "country": "Nepal",
       "rank": 61,
       "movement": "=",
@@ -124,7 +140,7 @@
       "isTop1": false
     },
     {
-      "title": "Like Crazy",
+      "title": "Be Mine",
       "country": "Laos",
       "rank": 85,
       "movement": "=",
@@ -132,7 +148,7 @@
       "isTop1": false
     },
     {
-      "title": "Like Crazy",
+      "title": "Be Mine",
       "country": "Thailand",
       "rank": 177,
       "movement": "-71",
@@ -152,7 +168,14 @@
     {
       "title": "Like Crazy",
       "type": "single",
-      "totalEntries": 13,
+      "totalEntries": 6,
+      "totalTop1": 0,
+      "countriesTop1": []
+    },
+    {
+      "title": "Be Mine",
+      "type": "single",
+      "totalEntries": 9,
       "totalTop1": 0,
       "countriesTop1": []
     }
