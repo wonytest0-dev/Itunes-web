@@ -1,13 +1,13 @@
 {
-  "updatedAt": "24/05/2026, 05:44:07 KST",
+  "updatedAt": "24/05/2026, 06:51:09 KST",
   "totalEntries": 19,
   "totalTop1": 0,
   "singles": [
     {
       "title": "Who",
       "country": "Guinea-Bissau",
-      "rank": 13,
-      "movement": "+1",
+      "rank": 15,
+      "movement": "-1",
       "type": "single",
       "isTop1": false
     },
@@ -22,16 +22,16 @@
     {
       "title": "Who",
       "country": "Sri Lanka",
-      "rank": 71,
-      "movement": "-14",
+      "rank": 74,
+      "movement": "-17",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Kyrgyzstan",
-      "rank": 80,
-      "movement": "-11",
+      "rank": 82,
+      "movement": "-13",
       "type": "single",
       "isTop1": false
     },
@@ -46,8 +46,8 @@
     {
       "title": "Like Crazy",
       "country": "Guinea-Bissau",
-      "rank": 19,
-      "movement": "+1",
+      "rank": 21,
+      "movement": "-1",
       "type": "single",
       "isTop1": false
     },
@@ -63,7 +63,7 @@
       "title": "Like Crazy",
       "country": "Niger",
       "rank": 32,
-      "movement": "-1",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -86,7 +86,7 @@
     {
       "title": "Be Mine",
       "country": "Taiwan",
-      "rank": 21,
+      "rank": 29,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -101,22 +101,6 @@
     },
     {
       "title": "Be Mine",
-      "country": "Russia",
-      "rank": 42,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Be Mine",
-      "country": "Hong Kong",
-      "rank": 44,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Be Mine",
       "country": "Micronesia",
       "rank": 47,
       "movement": "=",
@@ -126,8 +110,24 @@
     {
       "title": "Be Mine",
       "country": "Saudi Arabia",
-      "rank": 49,
+      "rank": 50,
       "movement": "-4",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Be Mine",
+      "country": "Hong Kong",
+      "rank": 51,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Be Mine",
+      "country": "Russia",
+      "rank": 51,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -150,8 +150,8 @@
     {
       "title": "Be Mine",
       "country": "Thailand",
-      "rank": 181,
-      "movement": "-59",
+      "rank": 186,
+      "movement": "-64",
       "type": "single",
       "isTop1": false
     }
