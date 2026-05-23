@@ -1,6 +1,6 @@
 {
-  "updatedAt": "23/05/2026, 16:28:56 KST",
-  "totalEntries": 16,
+  "updatedAt": "23/05/2026, 18:48:11 KST",
+  "totalEntries": 18,
   "totalTop1": 0,
   "singles": [
     {
@@ -23,7 +23,7 @@
       "title": "Who",
       "country": "Sri Lanka",
       "rank": 60,
-      "movement": "-4",
+      "movement": "-3",
       "type": "single",
       "isTop1": false
     },
@@ -32,6 +32,14 @@
       "country": "Kyrgyzstan",
       "rank": 74,
       "movement": "-14",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Taiwan",
+      "rank": 88,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -125,9 +133,17 @@
     },
     {
       "title": "Be Mine",
+      "country": "Hong Kong",
+      "rank": 107,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Be Mine",
       "country": "Thailand",
-      "rank": 135,
-      "movement": "-89",
+      "rank": 151,
+      "movement": "-88",
       "type": "single",
       "isTop1": false
     }
@@ -137,7 +153,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 4,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     },
@@ -151,7 +167,7 @@
     {
       "title": "Be Mine",
       "type": "single",
-      "totalEntries": 6,
+      "totalEntries": 7,
       "totalTop1": 0,
       "countriesTop1": []
     }
