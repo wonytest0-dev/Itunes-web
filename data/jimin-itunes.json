@@ -1,5 +1,5 @@
 {
-  "updatedAt": "23/05/2026, 23:57:40 KST",
+  "updatedAt": "24/05/2026, 01:03:16 KST",
   "totalEntries": 17,
   "totalTop1": 0,
   "singles": [
@@ -22,8 +22,8 @@
     {
       "title": "Who",
       "country": "Sri Lanka",
-      "rank": 63,
-      "movement": "-6",
+      "rank": 66,
+      "movement": "-9",
       "type": "single",
       "isTop1": false
     },
@@ -84,15 +84,15 @@
       "isTop1": false
     },
     {
-      "title": "Be Mine",
+      "title": "Like Crazy",
       "country": "Hong Kong",
-      "rank": 33,
+      "rank": 34,
       "movement": "NE",
       "type": "single",
       "isTop1": false
     },
     {
-      "title": "Be Mine",
+      "title": "Like Crazy",
       "country": "Kyrgyzstan",
       "rank": 42,
       "movement": "+3",
@@ -100,7 +100,7 @@
       "isTop1": false
     },
     {
-      "title": "Be Mine",
+      "title": "Like Crazy",
       "country": "Micronesia",
       "rank": 47,
       "movement": "=",
@@ -108,7 +108,7 @@
       "isTop1": false
     },
     {
-      "title": "Be Mine",
+      "title": "Like Crazy",
       "country": "Saudi Arabia",
       "rank": 48,
       "movement": "-3",
@@ -116,7 +116,7 @@
       "isTop1": false
     },
     {
-      "title": "Be Mine",
+      "title": "Like Crazy",
       "country": "Nepal",
       "rank": 61,
       "movement": "=",
@@ -124,7 +124,7 @@
       "isTop1": false
     },
     {
-      "title": "Be Mine",
+      "title": "Like Crazy",
       "country": "Laos",
       "rank": 85,
       "movement": "=",
@@ -132,7 +132,7 @@
       "isTop1": false
     },
     {
-      "title": "Be Mine",
+      "title": "Like Crazy",
       "country": "Thailand",
       "rank": 166,
       "movement": "-79",
@@ -152,14 +152,7 @@
     {
       "title": "Like Crazy",
       "type": "single",
-      "totalEntries": 6,
-      "totalTop1": 0,
-      "countriesTop1": []
-    },
-    {
-      "title": "Be Mine",
-      "type": "single",
-      "totalEntries": 7,
+      "totalEntries": 13,
       "totalTop1": 0,
       "countriesTop1": []
     }
