@@ -1,5 +1,5 @@
 {
-  "updatedAt": "24/05/2026, 22:17:21 KST",
+  "updatedAt": "24/05/2026, 23:59:56 KST",
   "totalEntries": 18,
   "totalTop1": 0,
   "singles": [
@@ -22,16 +22,16 @@
     {
       "title": "Who",
       "country": "Kyrgyzstan",
-      "rank": 85,
-      "movement": "-5",
+      "rank": 88,
+      "movement": "-8",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Sri Lanka",
-      "rank": 94,
-      "movement": "-31",
+      "rank": 95,
+      "movement": "-29",
       "type": "single",
       "isTop1": false
     },
@@ -117,14 +117,6 @@
     },
     {
       "title": "Like Crazy",
-      "country": "Taiwan",
-      "rank": 73,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Like Crazy",
       "country": "Laos",
       "rank": 85,
       "movement": "=",
@@ -133,16 +125,24 @@
     },
     {
       "title": "Like Crazy",
+      "country": "Taiwan",
+      "rank": 90,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Like Crazy",
       "country": "Hong Kong",
       "rank": 95,
-      "movement": "-70",
+      "movement": "-61",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Like Crazy",
       "country": "Russia",
-      "rank": 96,
+      "rank": 108,
       "movement": "NE",
       "type": "single",
       "isTop1": false
