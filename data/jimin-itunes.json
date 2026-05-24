@@ -1,5 +1,5 @@
 {
-  "updatedAt": "24/05/2026, 08:54:10 KST",
+  "updatedAt": "24/05/2026, 11:51:02 KST",
   "totalEntries": 19,
   "totalTop1": 0,
   "singles": [
@@ -22,16 +22,16 @@
     {
       "title": "Who",
       "country": "Sri Lanka",
-      "rank": 77,
-      "movement": "-19",
+      "rank": 83,
+      "movement": "-24",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Kyrgyzstan",
-      "rank": 83,
-      "movement": "-11",
+      "rank": 85,
+      "movement": "-10",
       "type": "single",
       "isTop1": false
     },
@@ -62,8 +62,8 @@
     {
       "title": "Like Crazy",
       "country": "Niger",
-      "rank": 32,
-      "movement": "=",
+      "rank": 33,
+      "movement": "-1",
       "type": "single",
       "isTop1": false
     },
@@ -86,7 +86,7 @@
     {
       "title": "Be Mine",
       "country": "Taiwan",
-      "rank": 30,
+      "rank": 31,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -94,8 +94,8 @@
     {
       "title": "Be Mine",
       "country": "Kyrgyzstan",
-      "rank": 42,
-      "movement": "+3",
+      "rank": 41,
+      "movement": "+1",
       "type": "single",
       "isTop1": false
     },
@@ -118,7 +118,7 @@
     {
       "title": "Be Mine",
       "country": "Saudi Arabia",
-      "rank": 52,
+      "rank": 53,
       "movement": "-6",
       "type": "single",
       "isTop1": false
@@ -126,7 +126,7 @@
     {
       "title": "Be Mine",
       "country": "Russia",
-      "rank": 59,
+      "rank": 60,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -150,8 +150,8 @@
     {
       "title": "Be Mine",
       "country": "Thailand",
-      "rank": 193,
-      "movement": "-67",
+      "rank": 197,
+      "movement": "-69",
       "type": "single",
       "isTop1": false
     }
