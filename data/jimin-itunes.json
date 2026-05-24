@@ -1,6 +1,6 @@
 {
-  "updatedAt": "24/05/2026, 15:35:01 KST",
-  "totalEntries": 19,
+  "updatedAt": "24/05/2026, 18:19:36 KST",
+  "totalEntries": 18,
   "totalTop1": 0,
   "singles": [
     {
@@ -21,17 +21,17 @@
     },
     {
       "title": "Who",
-      "country": "Sri Lanka",
-      "rank": 84,
-      "movement": "-25",
+      "country": "Kyrgyzstan",
+      "rank": 85,
+      "movement": "-10",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
-      "country": "Kyrgyzstan",
+      "country": "Sri Lanka",
       "rank": 85,
-      "movement": "-11",
+      "movement": "-25",
       "type": "single",
       "isTop1": false
     },
@@ -62,8 +62,8 @@
     {
       "title": "Like Crazy",
       "country": "Niger",
-      "rank": 33,
-      "movement": "-1",
+      "rank": 35,
+      "movement": "-3",
       "type": "single",
       "isTop1": false
     },
@@ -84,15 +84,7 @@
       "isTop1": false
     },
     {
-      "title": "Be Mine",
-      "country": "Taiwan",
-      "rank": 31,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Be Mine",
+      "title": "Like Crazy",
       "country": "Kyrgyzstan",
       "rank": 41,
       "movement": "+1",
@@ -100,7 +92,7 @@
       "isTop1": false
     },
     {
-      "title": "Be Mine",
+      "title": "Like Crazy",
       "country": "Micronesia",
       "rank": 47,
       "movement": "=",
@@ -108,15 +100,7 @@
       "isTop1": false
     },
     {
-      "title": "Be Mine",
-      "country": "Hong Kong",
-      "rank": 53,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Be Mine",
+      "title": "Like Crazy",
       "country": "Saudi Arabia",
       "rank": 53,
       "movement": "-5",
@@ -124,7 +108,15 @@
       "isTop1": false
     },
     {
-      "title": "Be Mine",
+      "title": "Like Crazy",
+      "country": "Taiwan",
+      "rank": 57,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Like Crazy",
       "country": "Nepal",
       "rank": 61,
       "movement": "=",
@@ -132,26 +124,26 @@
       "isTop1": false
     },
     {
-      "title": "Be Mine",
+      "title": "Like Crazy",
+      "country": "Hong Kong",
+      "rank": 70,
+      "movement": "-47",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Like Crazy",
       "country": "Russia",
-      "rank": 64,
+      "rank": 77,
       "movement": "NE",
       "type": "single",
       "isTop1": false
     },
     {
-      "title": "Be Mine",
+      "title": "Like Crazy",
       "country": "Laos",
       "rank": 85,
       "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Be Mine",
-      "country": "Thailand",
-      "rank": 199,
-      "movement": "-69",
       "type": "single",
       "isTop1": false
     }
@@ -168,14 +160,7 @@
     {
       "title": "Like Crazy",
       "type": "single",
-      "totalEntries": 6,
-      "totalTop1": 0,
-      "countriesTop1": []
-    },
-    {
-      "title": "Be Mine",
-      "type": "single",
-      "totalEntries": 9,
+      "totalEntries": 14,
       "totalTop1": 0,
       "countriesTop1": []
     }
