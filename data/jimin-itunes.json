@@ -1,13 +1,13 @@
 {
-  "updatedAt": "25/05/2026, 06:53:18 KST",
+  "updatedAt": "25/05/2026, 07:54:56 KST",
   "totalEntries": 16,
   "totalTop1": 0,
   "singles": [
     {
       "title": "Who",
       "country": "Guinea-Bissau",
-      "rank": 15,
-      "movement": "=",
+      "rank": 17,
+      "movement": "-2",
       "type": "single",
       "isTop1": false
     },
@@ -38,8 +38,8 @@
     {
       "title": "Like Crazy",
       "country": "Guinea-Bissau",
-      "rank": 21,
-      "movement": "=",
+      "rank": 23,
+      "movement": "-2",
       "type": "single",
       "isTop1": false
     },
@@ -126,8 +126,8 @@
     {
       "title": "Like Crazy",
       "country": "Russia",
-      "rank": 160,
-      "movement": "-109",
+      "rank": 170,
+      "movement": "-119",
       "type": "single",
       "isTop1": false
     }
