@@ -1,13 +1,13 @@
 {
-  "updatedAt": "25/05/2026, 04:17:07 KST",
-  "totalEntries": 17,
+  "updatedAt": "25/05/2026, 05:51:09 KST",
+  "totalEntries": 16,
   "totalTop1": 0,
   "singles": [
     {
       "title": "Who",
       "country": "Guinea-Bissau",
       "rank": 15,
-      "movement": "-2",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -21,17 +21,9 @@
     },
     {
       "title": "Who",
-      "country": "Kyrgyzstan",
-      "rank": 93,
-      "movement": "-13",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
       "country": "Sri Lanka",
       "rank": 97,
-      "movement": "-26",
+      "movement": "-23",
       "type": "single",
       "isTop1": false
     },
@@ -47,7 +39,7 @@
       "title": "Like Crazy",
       "country": "Guinea-Bissau",
       "rank": 21,
-      "movement": "-2",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -86,8 +78,8 @@
     {
       "title": "Like Crazy",
       "country": "Kyrgyzstan",
-      "rank": 41,
-      "movement": "+1",
+      "rank": 42,
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -102,8 +94,8 @@
     {
       "title": "Like Crazy",
       "country": "Saudi Arabia",
-      "rank": 54,
-      "movement": "-5",
+      "rank": 56,
+      "movement": "-6",
       "type": "single",
       "isTop1": false
     },
@@ -126,16 +118,16 @@
     {
       "title": "Like Crazy",
       "country": "Hong Kong",
-      "rank": 111,
-      "movement": "-73",
+      "rank": 125,
+      "movement": "-74",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Like Crazy",
       "country": "Russia",
-      "rank": 123,
-      "movement": "-81",
+      "rank": 160,
+      "movement": "-109",
       "type": "single",
       "isTop1": false
     }
@@ -145,7 +137,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 4,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
