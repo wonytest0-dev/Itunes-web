@@ -1,5 +1,5 @@
 {
-  "updatedAt": "25/05/2026, 20:44:25 KST",
+  "updatedAt": "25/05/2026, 21:25:49 KST",
   "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
@@ -97,7 +97,7 @@
       "title": "MUSE",
       "country": "Saudi Arabia",
       "rank": 69,
-      "movement": "-16",
+      "movement": "-15",
       "type": "album",
       "isTop1": false
     },
@@ -121,7 +121,7 @@
       "title": "MUSE",
       "country": "Russia",
       "rank": 191,
-      "movement": "-104",
+      "movement": "-95",
       "type": "album",
       "isTop1": false
     }
