@@ -1,6 +1,6 @@
 {
-  "updatedAt": "25/05/2026, 08:56:58 KST",
-  "totalEntries": 16,
+  "updatedAt": "25/05/2026, 12:51:11 KST",
+  "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
     {
@@ -16,14 +16,6 @@
       "country": "Gambia",
       "rank": 51,
       "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Sri Lanka",
-      "rank": 98,
-      "movement": "-15",
       "type": "single",
       "isTop1": false
     },
@@ -55,7 +47,7 @@
       "title": "Like Crazy",
       "country": "Niger",
       "rank": 35,
-      "movement": "-4",
+      "movement": "-2",
       "type": "single",
       "isTop1": false
     },
@@ -78,8 +70,8 @@
     {
       "title": "Like Crazy",
       "country": "Kyrgyzstan",
-      "rank": 42,
-      "movement": "-1",
+      "rank": 40,
+      "movement": "+1",
       "type": "single",
       "isTop1": false
     },
@@ -93,17 +85,17 @@
     },
     {
       "title": "Like Crazy",
-      "country": "Saudi Arabia",
-      "rank": 56,
-      "movement": "-3",
+      "country": "Nepal",
+      "rank": 61,
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Like Crazy",
-      "country": "Nepal",
-      "rank": 61,
-      "movement": "=",
+      "country": "Saudi Arabia",
+      "rank": 68,
+      "movement": "-15",
       "type": "single",
       "isTop1": false
     },
@@ -118,16 +110,16 @@
     {
       "title": "Like Crazy",
       "country": "Hong Kong",
-      "rank": 137,
-      "movement": "-85",
+      "rank": 138,
+      "movement": "-86",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Like Crazy",
       "country": "Russia",
-      "rank": 170,
-      "movement": "-111",
+      "rank": 179,
+      "movement": "-115",
       "type": "single",
       "isTop1": false
     }
@@ -137,7 +129,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 3,
+      "totalEntries": 2,
       "totalTop1": 0,
       "countriesTop1": []
     },
