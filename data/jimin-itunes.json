@@ -1,5 +1,5 @@
 {
-  "updatedAt": "25/05/2026, 17:17:21 KST",
+  "updatedAt": "25/05/2026, 20:44:25 KST",
   "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
@@ -47,7 +47,7 @@
       "title": "Like Crazy",
       "country": "Niger",
       "rank": 35,
-      "movement": "-2",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -66,65 +66,66 @@
       "movement": "=",
       "type": "single",
       "isTop1": false
-    },
+    }
+  ],
+  "albums": [
     {
-      "title": "Like Crazy",
+      "title": "MUSE",
       "country": "Kyrgyzstan",
       "rank": 40,
       "movement": "+1",
-      "type": "single",
+      "type": "album",
       "isTop1": false
     },
     {
-      "title": "Like Crazy",
+      "title": "MUSE",
       "country": "Micronesia",
       "rank": 47,
       "movement": "=",
-      "type": "single",
+      "type": "album",
       "isTop1": false
     },
     {
-      "title": "Like Crazy",
+      "title": "MUSE",
       "country": "Nepal",
       "rank": 61,
       "movement": "=",
-      "type": "single",
+      "type": "album",
       "isTop1": false
     },
     {
-      "title": "Like Crazy",
+      "title": "MUSE",
       "country": "Saudi Arabia",
-      "rank": 68,
-      "movement": "-15",
-      "type": "single",
+      "rank": 69,
+      "movement": "-16",
+      "type": "album",
       "isTop1": false
     },
     {
-      "title": "Like Crazy",
+      "title": "MUSE",
       "country": "Laos",
       "rank": 85,
       "movement": "=",
-      "type": "single",
+      "type": "album",
       "isTop1": false
     },
     {
-      "title": "Like Crazy",
+      "title": "MUSE",
       "country": "Hong Kong",
-      "rank": 149,
-      "movement": "-96",
-      "type": "single",
+      "rank": 176,
+      "movement": "-81",
+      "type": "album",
       "isTop1": false
     },
     {
-      "title": "Like Crazy",
+      "title": "MUSE",
       "country": "Russia",
-      "rank": 181,
-      "movement": "-117",
-      "type": "single",
+      "rank": 191,
+      "movement": "-104",
+      "type": "album",
       "isTop1": false
     }
   ],
-  "albums": [],
   "summary": [
     {
       "title": "Who",
@@ -136,7 +137,14 @@
     {
       "title": "Like Crazy",
       "type": "single",
-      "totalEntries": 13,
+      "totalEntries": 6,
+      "totalTop1": 0,
+      "countriesTop1": []
+    },
+    {
+      "title": "MUSE",
+      "type": "album",
+      "totalEntries": 7,
       "totalTop1": 0,
       "countriesTop1": []
     }
