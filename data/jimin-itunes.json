@@ -1,5 +1,5 @@
 {
-  "updatedAt": "26/05/2026, 02:40:11 KST",
+  "updatedAt": "26/05/2026, 04:23:46 KST",
   "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
@@ -22,7 +22,7 @@
     {
       "title": "Who",
       "country": "Philippines",
-      "rank": 72,
+      "rank": 80,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -104,8 +104,8 @@
     {
       "title": "MUSE",
       "country": "Saudi Arabia",
-      "rank": 75,
-      "movement": "-21",
+      "rank": 76,
+      "movement": "-22",
       "type": "album",
       "isTop1": false
     },
