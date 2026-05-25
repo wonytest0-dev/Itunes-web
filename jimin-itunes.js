@@ -14,19 +14,6 @@ function getKSTTime() {
   );
 }
 
-function detectType(title) {
-  const upper = title.toUpperCase();
-
-  if (
-    upper.includes("MUSE") ||
-    upper.includes("FACE")
-  ) {
-    return "album";
-  }
-
-  return "single";
-}
-
 async function scrapeJiminITunes() {
 
   console.log(
@@ -86,34 +73,83 @@ async function scrapeJiminITunes() {
     let currentTitle =
       null;
 
+    let currentType =
+      "single";
+
     let insideITunes =
       false;
 
-    for (const line of lines) {
+    for (
+      const line
+      of lines
+    ) {
 
       // skip noise
       if (
-        line.includes("All services") ||
-        line.includes("All markets") ||
-        line.includes("Discover more") ||
-        line.includes("Historical chart data") ||
-        line.includes("Music news blog") ||
-        line.includes("Streaming monetization course")
+        line.includes(
+          "All services"
+        ) ||
+        line.includes(
+          "All markets"
+        ) ||
+        line.includes(
+          "Discover more"
+        ) ||
+        line.includes(
+          "Historical chart data"
+        ) ||
+        line.includes(
+          "Music news blog"
+        ) ||
+        line.includes(
+          "Streaming monetization course"
+        )
       ) {
         continue;
       }
 
-      // detect song/album title
+      // detect album
+      if (
+        line.startsWith(
+          "Album:"
+        )
+      ) {
+
+        currentTitle =
+          line
+          .replace(
+            "Album:",
+            ""
+          )
+          .trim();
+
+        currentType =
+          "album";
+
+        insideITunes =
+          false;
+
+        continue;
+      }
+
+      // detect song title
       const isTitle =
         !line.includes(":") &&
         !line.startsWith("#") &&
         line.length < 60 &&
-        !/^\d/.test(line);
+        !/^\d/.test(
+          line
+        );
 
-      if (isTitle) {
+      if (
+        isTitle
+      ) {
 
         currentTitle =
           line;
+
+        currentType =
+          "single";
 
         insideITunes =
           false;
@@ -122,25 +158,36 @@ async function scrapeJiminITunes() {
       }
 
       // masuk iTunes section
-      if (line === "iTunes:") {
+      if (
+        line ===
+        "iTunes:"
+      ) {
+
         insideITunes =
           true;
+
         continue;
       }
 
       // keluar kalau pindah service
       if (
-        line.endsWith(":") &&
-        line !== "iTunes:"
+        line.endsWith(
+          ":"
+        ) &&
+        line !==
+        "iTunes:"
       ) {
+
         insideITunes =
           false;
       }
-
+      
       // scrape iTunes ranks
       if (
         insideITunes &&
-        line.startsWith("#")
+        line.startsWith(
+          "#"
+        )
       ) {
 
         const matches =
@@ -151,7 +198,8 @@ async function scrapeJiminITunes() {
           ];
 
         for (
-          const match of matches
+          const match
+          of matches
         ) {
 
           const rank =
@@ -160,17 +208,18 @@ async function scrapeJiminITunes() {
             );
 
           const country =
-            match[2].trim();
+            match[2]
+            .trim();
 
           const movement =
-            match[3].trim();
+            match[3]
+            .trim();
 
           const type =
-            detectType(
-              currentTitle
-            );
+            currentType;
 
           const item = {
+
             title:
               currentTitle,
 
@@ -200,14 +249,17 @@ async function scrapeJiminITunes() {
             summaryMap[
               currentTitle
             ] = {
+
               title:
                 currentTitle,
 
               type,
 
-              totalEntries: 0,
+              totalEntries:
+                0,
 
-              totalTop1: 0,
+              totalTop1:
+                0,
 
               countriesTop1:
                 []
@@ -216,7 +268,8 @@ async function scrapeJiminITunes() {
 
           summaryMap[
             currentTitle
-          ].totalEntries++;
+          ]
+          .totalEntries++;
 
           if (
             rank === 1
@@ -224,11 +277,14 @@ async function scrapeJiminITunes() {
 
             summaryMap[
               currentTitle
-            ].totalTop1++;
+            ]
+            .totalTop1++;
 
             summaryMap[
               currentTitle
-            ].countriesTop1.push(
+            ]
+            .countriesTop1
+            .push(
               country
             );
           }
@@ -237,6 +293,7 @@ async function scrapeJiminITunes() {
     }
 
     const output = {
+
       updatedAt:
         getKSTTime() +
         " KST",
@@ -268,12 +325,14 @@ async function scrapeJiminITunes() {
         Object.values(
           summaryMap
         ).sort(
-          (a, b) =>
+          (
+            a,
+            b
+          ) =>
             b.totalTop1 -
             a.totalTop1
         )
     };
-
     // buat folder data
     await fs.mkdir(
       "data",
