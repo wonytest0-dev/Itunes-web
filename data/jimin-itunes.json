@@ -1,6 +1,6 @@
 {
-  "updatedAt": "26/05/2026, 00:48:10 KST",
-  "totalEntries": 16,
+  "updatedAt": "26/05/2026, 02:40:11 KST",
+  "totalEntries": 14,
   "totalTop1": 0,
   "singles": [
     {
@@ -22,15 +22,7 @@
     {
       "title": "Who",
       "country": "Philippines",
-      "rank": 67,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Be Mine",
-      "country": "Sweden",
-      "rank": 192,
+      "rank": 72,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -112,8 +104,8 @@
     {
       "title": "MUSE",
       "country": "Saudi Arabia",
-      "rank": 74,
-      "movement": "-20",
+      "rank": 75,
+      "movement": "-21",
       "type": "album",
       "isTop1": false
     },
@@ -122,14 +114,6 @@
       "country": "Laos",
       "rank": 85,
       "movement": "=",
-      "type": "album",
-      "isTop1": false
-    },
-    {
-      "title": "MUSE",
-      "country": "Hong Kong",
-      "rank": 190,
-      "movement": "-88",
       "type": "album",
       "isTop1": false
     }
@@ -143,13 +127,6 @@
       "countriesTop1": []
     },
     {
-      "title": "Be Mine",
-      "type": "single",
-      "totalEntries": 1,
-      "totalTop1": 0,
-      "countriesTop1": []
-    },
-    {
       "title": "Like Crazy",
       "type": "single",
       "totalEntries": 6,
@@ -159,7 +136,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 6,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     }
