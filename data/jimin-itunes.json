@@ -1,6 +1,6 @@
 {
-  "updatedAt": "25/05/2026, 21:25:49 KST",
-  "totalEntries": 15,
+  "updatedAt": "26/05/2026, 00:48:10 KST",
+  "totalEntries": 16,
   "totalTop1": 0,
   "singles": [
     {
@@ -16,6 +16,22 @@
       "country": "Gambia",
       "rank": 51,
       "movement": "=",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Philippines",
+      "rank": 67,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Be Mine",
+      "country": "Sweden",
+      "rank": 192,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -96,8 +112,8 @@
     {
       "title": "MUSE",
       "country": "Saudi Arabia",
-      "rank": 69,
-      "movement": "-15",
+      "rank": 74,
+      "movement": "-20",
       "type": "album",
       "isTop1": false
     },
@@ -112,16 +128,8 @@
     {
       "title": "MUSE",
       "country": "Hong Kong",
-      "rank": 176,
-      "movement": "-81",
-      "type": "album",
-      "isTop1": false
-    },
-    {
-      "title": "MUSE",
-      "country": "Russia",
-      "rank": 191,
-      "movement": "-95",
+      "rank": 190,
+      "movement": "-88",
       "type": "album",
       "isTop1": false
     }
@@ -130,7 +138,14 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 2,
+      "totalEntries": 3,
+      "totalTop1": 0,
+      "countriesTop1": []
+    },
+    {
+      "title": "Be Mine",
+      "type": "single",
+      "totalEntries": 1,
       "totalTop1": 0,
       "countriesTop1": []
     },
@@ -144,7 +159,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 7,
+      "totalEntries": 6,
       "totalTop1": 0,
       "countriesTop1": []
     }
