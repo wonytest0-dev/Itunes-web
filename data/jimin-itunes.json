@@ -1,5 +1,5 @@
 {
-  "updatedAt": "26/05/2026, 17:39:37 KST",
+  "updatedAt": "27/05/2026, 01:39:42 KST",
   "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
@@ -16,14 +16,6 @@
       "country": "Gambia",
       "rank": 51,
       "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Philippines",
-      "rank": 162,
-      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -54,8 +46,8 @@
     {
       "title": "Like Crazy",
       "country": "Niger",
-      "rank": 35,
-      "movement": "=",
+      "rank": 36,
+      "movement": "-1",
       "type": "single",
       "isTop1": false
     },
@@ -72,6 +64,14 @@
       "country": "Micronesia",
       "rank": 52,
       "movement": "=",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Like Crazy",
+      "country": "Singapore",
+      "rank": 83,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     }
@@ -114,14 +114,14 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 3,
+      "totalEntries": 2,
       "totalTop1": 0,
       "countriesTop1": []
     },
     {
       "title": "Like Crazy",
       "type": "single",
-      "totalEntries": 6,
+      "totalEntries": 7,
       "totalTop1": 0,
       "countriesTop1": []
     },
