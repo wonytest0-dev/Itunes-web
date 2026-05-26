@@ -1,6 +1,6 @@
 {
-  "updatedAt": "26/05/2026, 14:00:20 KST",
-  "totalEntries": 14,
+  "updatedAt": "26/05/2026, 17:39:37 KST",
+  "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
     {
@@ -22,15 +22,7 @@
     {
       "title": "Who",
       "country": "Philippines",
-      "rank": 90,
-      "movement": "NE",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Malaysia",
-      "rank": 185,
+      "rank": 162,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -38,8 +30,8 @@
     {
       "title": "Like Crazy",
       "country": "Cape Verde",
-      "rank": 15,
-      "movement": "=",
+      "rank": 16,
+      "movement": "-1",
       "type": "single",
       "isTop1": false
     },
@@ -54,8 +46,8 @@
     {
       "title": "Like Crazy",
       "country": "Cape Verde",
-      "rank": 27,
-      "movement": "=",
+      "rank": 28,
+      "movement": "-1",
       "type": "single",
       "isTop1": false
     },
@@ -122,7 +114,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 4,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
