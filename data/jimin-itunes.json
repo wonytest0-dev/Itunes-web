@@ -1,5 +1,5 @@
 {
-  "updatedAt": "27/05/2026, 04:16:09 KST",
+  "updatedAt": "27/05/2026, 06:40:50 KST",
   "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
@@ -8,6 +8,14 @@
       "country": "Guinea-Bissau",
       "rank": 17,
       "movement": "=",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Singapore",
+      "rank": 34,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -47,7 +55,7 @@
       "title": "Like Crazy",
       "country": "Niger",
       "rank": 36,
-      "movement": "-1",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -64,14 +72,6 @@
       "country": "Micronesia",
       "rank": 52,
       "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Like Crazy",
-      "country": "Singapore",
-      "rank": 94,
-      "movement": "NE",
       "type": "single",
       "isTop1": false
     }
@@ -114,14 +114,14 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 2,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
     {
       "title": "Like Crazy",
       "type": "single",
-      "totalEntries": 7,
+      "totalEntries": 6,
       "totalTop1": 0,
       "countriesTop1": []
     },
