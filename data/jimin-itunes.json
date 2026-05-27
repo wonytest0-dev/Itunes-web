@@ -1,12 +1,12 @@
 {
-  "updatedAt": "27/05/2026, 16:08:00 KST",
+  "updatedAt": "27/05/2026, 20:34:53 KST",
   "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
     {
       "title": "Who",
       "country": "Panama",
-      "rank": 2,
+      "rank": 10,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -31,7 +31,7 @@
       "title": "Like Crazy",
       "country": "Cape Verde",
       "rank": 15,
-      "movement": "=",
+      "movement": "+1",
       "type": "single",
       "isTop1": false
     },
@@ -47,7 +47,7 @@
       "title": "Like Crazy",
       "country": "Cape Verde",
       "rank": 27,
-      "movement": "=",
+      "movement": "+1",
       "type": "single",
       "isTop1": false
     },
@@ -55,7 +55,7 @@
       "title": "Like Crazy",
       "country": "Niger",
       "rank": 36,
-      "movement": "-1",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
