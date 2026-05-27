@@ -1,5 +1,5 @@
 {
-  "updatedAt": "27/05/2026, 08:06:19 KST",
+  "updatedAt": "27/05/2026, 11:58:40 KST",
   "totalEntries": 13,
   "totalTop1": 0,
   "singles": [
@@ -14,7 +14,7 @@
     {
       "title": "Who",
       "country": "Singapore",
-      "rank": 34,
+      "rank": 36,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -22,16 +22,16 @@
     {
       "title": "Who",
       "country": "Gambia",
-      "rank": 51,
-      "movement": "=",
+      "rank": 50,
+      "movement": "+1",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Like Crazy",
       "country": "Cape Verde",
-      "rank": 16,
-      "movement": "-1",
+      "rank": 15,
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -46,8 +46,8 @@
     {
       "title": "Like Crazy",
       "country": "Cape Verde",
-      "rank": 28,
-      "movement": "-1",
+      "rank": 27,
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -55,7 +55,7 @@
       "title": "Like Crazy",
       "country": "Niger",
       "rank": 36,
-      "movement": "=",
+      "movement": "-1",
       "type": "single",
       "isTop1": false
     },
@@ -80,8 +80,8 @@
     {
       "title": "MUSE",
       "country": "Kyrgyzstan",
-      "rank": 38,
-      "movement": "+2",
+      "rank": 37,
+      "movement": "+1",
       "type": "album",
       "isTop1": false
     },
