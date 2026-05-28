@@ -1,5 +1,5 @@
 {
-  "updatedAt": "28/05/2026, 07:46:23 KST",
+  "updatedAt": "28/05/2026, 09:01:59 KST",
   "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
@@ -23,14 +23,14 @@
       "title": "Who",
       "country": "Gambia",
       "rank": 50,
-      "movement": "+1",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Who",
       "country": "Hong Kong",
-      "rank": 188,
+      "rank": 190,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -39,7 +39,7 @@
       "title": "Like Crazy",
       "country": "Cape Verde",
       "rank": 15,
-      "movement": "+1",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
@@ -55,7 +55,7 @@
       "title": "Like Crazy",
       "country": "Cape Verde",
       "rank": 27,
-      "movement": "+1",
+      "movement": "=",
       "type": "single",
       "isTop1": false
     },
