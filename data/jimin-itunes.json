@@ -1,6 +1,6 @@
 {
-  "updatedAt": "30/05/2026, 01:40:56 KST",
-  "totalEntries": 15,
+  "updatedAt": "30/05/2026, 04:31:12 KST",
+  "totalEntries": 16,
   "totalTop1": 0,
   "singles": [
     {
@@ -14,16 +14,8 @@
     {
       "title": "Who",
       "country": "Panama",
-      "rank": 33,
-      "movement": "-10",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Hungary",
-      "rank": 46,
-      "movement": "NE",
+      "rank": 38,
+      "movement": "-11",
       "type": "single",
       "isTop1": false
     },
@@ -36,10 +28,18 @@
       "isTop1": false
     },
     {
+      "title": "Who",
+      "country": "Hungary",
+      "rank": 62,
+      "movement": "NE",
+      "type": "single",
+      "isTop1": false
+    },
+    {
       "title": "Like Crazy",
       "country": "Cape Verde",
-      "rank": 17,
-      "movement": "-2",
+      "rank": 19,
+      "movement": "-4",
       "type": "single",
       "isTop1": false
     },
@@ -54,8 +54,8 @@
     {
       "title": "Like Crazy",
       "country": "Cape Verde",
-      "rank": 29,
-      "movement": "-2",
+      "rank": 31,
+      "movement": "-4",
       "type": "single",
       "isTop1": false
     },
@@ -96,8 +96,8 @@
     {
       "title": "MUSE",
       "country": "Kyrgyzstan",
-      "rank": 38,
-      "movement": "=",
+      "rank": 39,
+      "movement": "-1",
       "type": "album",
       "isTop1": false
     },
@@ -106,6 +106,14 @@
       "country": "Micronesia",
       "rank": 47,
       "movement": "=",
+      "type": "album",
+      "isTop1": false
+    },
+    {
+      "title": "MUSE",
+      "country": "Belgium",
+      "rank": 50,
+      "movement": "NE",
       "type": "album",
       "isTop1": false
     },
@@ -144,7 +152,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 5,
+      "totalEntries": 6,
       "totalTop1": 0,
       "countriesTop1": []
     }
