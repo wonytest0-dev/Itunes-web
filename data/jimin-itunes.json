@@ -1,6 +1,6 @@
 {
-  "updatedAt": "30/05/2026, 18:12:49 KST",
-  "totalEntries": 15,
+  "updatedAt": "30/05/2026, 20:17:51 KST",
+  "totalEntries": 16,
   "totalTop1": 0,
   "singles": [
     {
@@ -8,6 +8,14 @@
       "country": "Guinea-Bissau",
       "rank": 18,
       "movement": "-1",
+      "type": "single",
+      "isTop1": false
+    },
+    {
+      "title": "Who",
+      "country": "Singapore",
+      "rank": 34,
+      "movement": "NE",
       "type": "single",
       "isTop1": false
     },
@@ -22,8 +30,8 @@
     {
       "title": "Who",
       "country": "Panama",
-      "rank": 67,
-      "movement": "-34",
+      "rank": 68,
+      "movement": "-35",
       "type": "single",
       "isTop1": false
     },
@@ -80,8 +88,8 @@
     {
       "title": "MUSE",
       "country": "Dominican Republic",
-      "rank": 6,
-      "movement": "-1",
+      "rank": 7,
+      "movement": "-2",
       "type": "album",
       "isTop1": false
     },
@@ -120,7 +128,7 @@
     {
       "title": "MUSE",
       "country": "Belgium",
-      "rank": 117,
+      "rank": 122,
       "movement": "NE",
       "type": "album",
       "isTop1": false
@@ -130,7 +138,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 3,
+      "totalEntries": 4,
       "totalTop1": 0,
       "countriesTop1": []
     },
