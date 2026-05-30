@@ -1,5 +1,5 @@
 {
-  "updatedAt": "31/05/2026, 03:04:38 KST",
+  "updatedAt": "31/05/2026, 05:06:33 KST",
   "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
@@ -22,7 +22,7 @@
     {
       "title": "Who",
       "country": "Singapore",
-      "rank": 52,
+      "rank": 58,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -30,8 +30,8 @@
     {
       "title": "Who",
       "country": "Panama",
-      "rank": 73,
-      "movement": "-40",
+      "rank": 74,
+      "movement": "-41",
       "type": "single",
       "isTop1": false
     },
