@@ -1,6 +1,6 @@
 {
-  "updatedAt": "30/05/2026, 08:09:43 KST",
-  "totalEntries": 16,
+  "updatedAt": "30/05/2026, 11:42:56 KST",
+  "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
     {
@@ -8,14 +8,6 @@
       "country": "Guinea-Bissau",
       "rank": 17,
       "movement": "=",
-      "type": "single",
-      "isTop1": false
-    },
-    {
-      "title": "Who",
-      "country": "Panama",
-      "rank": 43,
-      "movement": "-16",
       "type": "single",
       "isTop1": false
     },
@@ -29,17 +21,17 @@
     },
     {
       "title": "Who",
-      "country": "Hungary",
-      "rank": 79,
-      "movement": "NE",
+      "country": "Panama",
+      "rank": 52,
+      "movement": "-25",
       "type": "single",
       "isTop1": false
     },
     {
       "title": "Like Crazy",
       "country": "Cape Verde",
-      "rank": 19,
-      "movement": "-4",
+      "rank": 17,
+      "movement": "-3",
       "type": "single",
       "isTop1": false
     },
@@ -54,8 +46,8 @@
     {
       "title": "Like Crazy",
       "country": "Cape Verde",
-      "rank": 31,
-      "movement": "-4",
+      "rank": 29,
+      "movement": "-3",
       "type": "single",
       "isTop1": false
     },
@@ -96,8 +88,8 @@
     {
       "title": "MUSE",
       "country": "Kyrgyzstan",
-      "rank": 39,
-      "movement": "-1",
+      "rank": 38,
+      "movement": "=",
       "type": "album",
       "isTop1": false
     },
@@ -119,17 +111,17 @@
     },
     {
       "title": "MUSE",
-      "country": "Belgium",
-      "rank": 70,
-      "movement": "NE",
+      "country": "Laos",
+      "rank": 86,
+      "movement": "-1",
       "type": "album",
       "isTop1": false
     },
     {
       "title": "MUSE",
-      "country": "Laos",
-      "rank": 86,
-      "movement": "-1",
+      "country": "Belgium",
+      "rank": 103,
+      "movement": "NE",
       "type": "album",
       "isTop1": false
     }
@@ -138,7 +130,7 @@
     {
       "title": "Who",
       "type": "single",
-      "totalEntries": 4,
+      "totalEntries": 3,
       "totalTop1": 0,
       "countriesTop1": []
     },
