@@ -1,6 +1,6 @@
 {
-  "updatedAt": "31/05/2026, 00:03:24 KST",
-  "totalEntries": 16,
+  "updatedAt": "31/05/2026, 01:58:45 KST",
+  "totalEntries": 15,
   "totalTop1": 0,
   "singles": [
     {
@@ -14,7 +14,7 @@
     {
       "title": "Who",
       "country": "Singapore",
-      "rank": 38,
+      "rank": 45,
       "movement": "NE",
       "type": "single",
       "isTop1": false
@@ -30,8 +30,8 @@
     {
       "title": "Who",
       "country": "Panama",
-      "rank": 71,
-      "movement": "-38",
+      "rank": 72,
+      "movement": "-39",
       "type": "single",
       "isTop1": false
     },
@@ -124,14 +124,6 @@
       "movement": "=",
       "type": "album",
       "isTop1": false
-    },
-    {
-      "title": "MUSE",
-      "country": "France",
-      "rank": 165,
-      "movement": "NE",
-      "type": "album",
-      "isTop1": false
     }
   ],
   "summary": [
@@ -152,7 +144,7 @@
     {
       "title": "MUSE",
       "type": "album",
-      "totalEntries": 6,
+      "totalEntries": 5,
       "totalTop1": 0,
       "countriesTop1": []
     }
